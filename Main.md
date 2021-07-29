@@ -1,2 +1,14 @@
 # 四足歩行ロボットの研究
 - オープンソースロボット
+  - Open Dynamic Robot Initiative
+    - https://open-dynamic-robot-initiative.github.io/
+    - This work is done in collaboration between the Motion Generation and Control Group, the Dynamic Locomotion Group and the Robotics Central Scientific Facility at the Max-Planck Institute for Intelligent System , the Machines in Motion Laboratory at New York University's Tandon School of Engineering and the Gepetto Team at the LAAS/CNRS.
+    - 開発はNew York University（ニューヨーク大学）などの共同で製作されたもののよう。あまり詳しくは調べていない。
+    - https://youtu.be/6kY0sRYaXyI
+    - とにかく跳ねる。ぴょんぴょん楽しそう。
+    - ３Dプリンターで筐体が作られていて、モーターは薄型で高性能なブラシレスモーターを使用していて、エンコーダーによって制御されているみたい。
+    - ロボットへの圧力は光学式センサーで求めているみたい。外側からの圧力によって小さな穴が開いているアパーチャーが移動することで光センサーに当たる光量が変わって圧力を検知する仕組みらしい。（これ理解するまですごい時間かかった）
+    - ![image](https://user-images.githubusercontent.com/66196142/127496487-94626cc3-7b00-4cf9-9fbd-d0395053873c.png)
+    - https://youtu.be/1TluBZRFed8
+    - https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/foot_contact_switch_v1/README.md#foot-contact-switch-v1
+    - 
